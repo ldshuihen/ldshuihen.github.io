@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/badge/GitHub-241416916-blue?logo=github)](https://github.com/ewxi123)
+[![GitHub](https://img.shields.io/badge/GitHub-241416916-blue?logo=github)]([ldshuihen](https://github.com/ldshuihen))
 
 我目前在 **西安理工大学** 计算机科学与工程学院 攻读 **计算机技术专业硕士**。
 
