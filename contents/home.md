@@ -4,6 +4,7 @@
 
 #### 邮箱
 
+<code>2241221059@stu.xaut.edu.cn</code>
 <code>241416916@qq.com</code>  
 <code>ewxi123@qq.com</code>
 
